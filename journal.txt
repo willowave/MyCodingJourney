@@ -1,5 +1,12 @@
 --Saturday, Novemeber 5th 2022
 Was largely unproductive today because I spent almost all of it watching the LoL World Finals. I finished the last couple of assignments for the last Git module though. I feel like I have a firm grasp of Git now, and am looking forward to begin learning about Github tommorrow.
 
+--Tuesday, Nobember 1, 2022
+Started looking at my Udemy courses for the first time, starting with 'How to become a Software Developer from Scratch' I couldn't really understand the professor, so I switched away.
+
+I tried 'Software Development from A to Z' next and i liked the content much much better. The professor was clear, detailed and very easy for me to understand. It confirmed some of my inspirations for pursuing coding and going the Software Development route. I watched until the content began becoming too abstract, so I switched away and figured I'd come back to it later when I had a bigger background in coding. I also figured some of these details would only be useful in learning and mastering in the tailend of my journey.
+
+Next I switched to 'Visual Studio Code for Developers 2022' which was another good detailed course. Course starts off slow and boring, but it picks up and you start learning more helpful productivity skills.
+
 --Monday, October 31, 2022
 Researched and downloaded the Software Development Curriculum from San Diego State University's Bootcamp Program and used this as a guide to form my own curriculum. I went to Udemy.com and bought courses based around this cirriculum, and tried my best to organize these courses in order of what I thought was the best order to take them. For more information on my cirriculum, check out the 'cirriculum' branch.
