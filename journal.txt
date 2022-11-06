@@ -1,2 +1,5 @@
---October 31, 2022
+--Saturday, Novemeber 5th 2022
+Was largely unproductive today because I spent almost all of it watching the LoL World Finals. I finished the last couple of assignments for the last Git module though. I feel like I have a firm grasp of Git now, and am looking forward to begin learning about Github tommorrow.
+
+--Monday, October 31, 2022
 Researched and downloaded the Software Development Curriculum from San Diego State University's Bootcamp Program and used this as a guide to form my own curriculum. I went to Udemy.com and bought courses based around this cirriculum, and tried my best to organize these courses in order of what I thought was the best order to take them. For more information on my cirriculum, check out the 'cirriculum' branch.
