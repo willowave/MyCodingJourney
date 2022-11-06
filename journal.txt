@@ -1,0 +1,2 @@
+--October 31, 2022
+Researched and downloaded the Software Development Curriculum from San Diego State University's Bootcamp Program and used this as a guide to form my own curriculum. I went to Udemy.com and bought courses based around this cirriculum, and tried my best to organize these courses in order of what I thought was the best order to take them. For more information on my cirriculum, check out the 'cirriculum' branch.
