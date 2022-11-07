@@ -1,6 +1,9 @@
 --Saturday, Novemeber 5th 2022
 Was largely unproductive today because I spent almost all of it watching the LoL World Finals. I finished the last couple of assignments for the last Git module though. I feel like I have a firm grasp of Git now, and am looking forward to begin learning about Github tommorrow.
 
+--Thursday, Nobember 4, 2022
+Continued learning about Git and applying it. I think I have a firm grasp of it now and feel really ready and excited to begin learning about Github in a few days. Also still not nearly as productive as I would like. I'm proud that I am able to get myself to study and finally begin this journey, but I need to get even more serious about this by coming up with daily goals and a schedule. Most importantly, I need to be able to commit to the schedule, once I make it.
+
 --Thursday, Nobember 3, 2022
 Continued my VS Code course, but got tired of it and decided to switchover to the Git/Github course. Made some good headway by learning most of Git's basic features. Still not nearly as productive as I would like.
 
