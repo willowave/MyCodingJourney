@@ -1,6 +1,9 @@
 --Saturday, Novemeber 5th 2022
 Was largely unproductive today because I spent almost all of it watching the LoL World Finals. I finished the last couple of assignments for the last Git module though. I feel like I have a firm grasp of Git now, and am looking forward to begin learning about Github tommorrow.
 
+--Thursday, Nobember 3, 2022
+Continued my VS Code course, but got tired of it and decided to switchover to the Git/Github course. Made some good headway by learning most of Git's basic features. Still not nearly as productive as I would like.
+
 --Wednesday, Nobember 2, 2022
 Wasn't a very productive day. I had a job interview for a part time Deli Clerk/Grocery Clerk position at my local supermarket. I got the job too, fuck yea! I basically wasted all day streaming on netflix to celebrate lol.
 
