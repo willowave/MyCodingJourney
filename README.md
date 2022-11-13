@@ -1,6 +1,11 @@
-Journal:
+# Welcome to my coding journey!
 
-Start Here:
+## What is this project all about?
+
+---
+
+###### Old content
+
 Use this journal as a guide/information palace for understanding why I structured the cirriculum the way that I did.
 To view my repository optimally, I recommend using a git GUI since there will be a lot of entries and a lot of branches since this is resourse is aimed to primarily document my history based on my coding journey from zero experience - otherwise, please enjoy!
 
