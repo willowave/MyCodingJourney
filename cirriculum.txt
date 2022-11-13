@@ -1,0 +1,25 @@
+See journal for more information/context behind my cirriculum
+
+Courses I bought so far (ordered based on priority):
+1. Software Development from A to Z
+2. Visual Studio Code for Developers 2022
+3. The Git & Github Bootcamp
+*4. The Linux Command Line Bootcamp: Beginner to Power User
+5. The Complete 2022 Web Developer Bootcamp
+6. The Web Developer Bootcamp
+7. Figma UI/UX Design Essentials
+8. The Complete JavaScript Course 2022
+9. JavaScript Algorithms and Data Structures Masterclass
+10. Node.js, MongoDB, and More
+11. React - The Complete Guide
+12. The Ultimate My SQL Bootcamp
+13. The Complete Cyber Security Course
+14. 100 Days of Code: The Complete Python Pro Bootcamp
+
+* = Important courses that I haven't paid for yet.
+
+Courses that I bought that I didn't quite like:
+1. How to become a Software Developer from Scratch
+
+Content/courses that I think are important but have no idea how to place on the cirriculum yet:
+1. Havard CS50
