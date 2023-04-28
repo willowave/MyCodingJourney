@@ -15,3 +15,16 @@ code .. - opens a file in VS Code.
 open .. - opens a file or folder.
 open . - opens our current directory.
 pwd - prints out our current directory.
+
+-----------------------------
+27 April 2023
+-------------
+git init .. - initiates a git repo inside the current directory.
+git status - provides information to us about the repo we're currently in.
+mv .. .. - moves a file/folder from A to B.
+git add .. - stages files for a later commit.
+git log - shows us a history of all our past commits.
+rm -rf .git - gets rid of our git repo.
+git commit .. - commits all staged items.
+git commit -a .. - adds and commits all modified items.
+git commit -a -m ".." - add, commits, and leaves a note for all modified items.
