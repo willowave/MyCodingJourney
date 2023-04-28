@@ -1,0 +1,17 @@
+-----------------------------
+26 April 2023
+-------------
+cd .. - allows us to change from one directory to another.
+cd ".." - takes us back one directory.
+touch .. - creates a file.
+rm .. - removes a file.
+mkdir .. - creates a folder.
+rmdir .. - removes a folder.
+rm -rf .. - removes a folder.
+ls .. - lists the contents of our current directory.
+ls -a .. - lists all the contents of our current directory, including hidden files.
+code - opens VS Code.
+code .. - opens a file in VS Code.
+open .. - opens a file or folder.
+open . - opens our current directory.
+pwd - prints out our current directory.
