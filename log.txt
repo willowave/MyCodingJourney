@@ -28,3 +28,18 @@ rm -rf .git - gets rid of our git repo.
 git commit .. - commits all staged items.
 git commit -a .. - adds and commits all modified items.
 git commit -a -m ".." - add, commits, and leaves a note for all modified items.
+
+-----------------------------
+28 April 2023
+-------------
+git log --oneline - shows the details of each git log commit in one line.
+git amend --amend - undoes the previous commit only.
+git branch - allows us to view all existing branches inside our repo.
+git branch .. - creates a branch with the name ".." based on HEAD's current location.
+git switch .. - switches us to the ".." branch.
+git checkout .. - switches us to the ".." branch.
+git switch -c .. - creates a branch with the name ".." and switches us to it.
+git checkout -b .. - creates a branch with the name ".." and switches us to it.
+git branch -d .. - deletes a branch with the name "..".
+git branch -m .. - renames the branch that we're currently on.
+git merge .. - merges the branch ".." into the branch based on our current location.
