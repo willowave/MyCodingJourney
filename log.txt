@@ -43,3 +43,13 @@ git checkout -b .. - creates a branch with the name ".." and switches us to it.
 git branch -d .. - deletes a branch with the name "..".
 git branch -m .. - renames the branch that we're currently on.
 git merge .. - merges the branch ".." into the branch based on our current location.
+
+-----------------------------
+29 April 2023
+-------------
+git diff - shows all unstaged changes.
+git stash save - stashes all uncommitted changes inside our current branch.
+git stash pop - unstashes content and applies them to wherever one might be.
+git stash list - shows a list of everything that we have stashed.
+git stash apply - applies our stash but keeps the stash.
+git branch -m 1 2 - renames branch "1" to "2.".
